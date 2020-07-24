@@ -13,16 +13,10 @@
   font-size: 24px;
 }
 
-/* Change the color of links on hover */
+/* Change the color of links on hover - flips pink and white  */
 .navbar a:hover {
   background-color: #faf7f9;
-  color: #ff96cb; 
-}
-
-/* Add a color to the active/current link - doesnt work */
-.navbar a.active {
-  background-color: #4CAF50;
-  color: white;
+  color: #ff96cb;
 }
 
 body {
