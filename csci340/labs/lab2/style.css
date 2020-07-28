@@ -20,5 +20,10 @@
 }
 
 body {
-background-color: #fce8f6; /*color of background of website*/
+  background-color: #ffd1f1;  /*color of background of website -- doesnt work anymore, supposed to be light pink*/
+}
+
+/* Modify the backgorund color - sure doesnt work*/
+.navbar-custom {
+    background-color: lightgreen;
 }
