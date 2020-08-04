@@ -11,20 +11,10 @@
   padding: 18px;
   text-decoration: none;
   font-size: 24px;
-  margin-left: 15px;
 }
 
 /* Change the color of links on hover - flips pink and white  */
 .navbar a:hover {
   background-color: #faf7f9;
   color: #ff96cb;
-}
-
-body {
-  background-color: #ffd1f1;  /*color of background of website -- doesnt work anymore, supposed to be light pink*/
-}
-
-/* Modify the backgorund color - sure doesnt work*/
-.navbar-custom {
-    background-color: lightgreen;
 }
