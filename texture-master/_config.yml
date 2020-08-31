@@ -1,10 +1,9 @@
-title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
+title: Lucy's Blog!
+author: Lucy Lyon
+email: lyonlg@hendrix.edu
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the blog where I am going to be writing weekly posts about what I am doing this week in Disco 
+  Tray Studios.
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: /texture
 
@@ -15,8 +14,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Lucy's Blog!
+  tagline: 
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -24,9 +23,9 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: disco_trays
+    github:  lucylyon
+    #linkedIn: in/thelehhman
     rss: rss
  
 
@@ -36,8 +35,10 @@ texture:
 # - about.md
 
 # Build settings
-# theme: texture
+theme: texture
 
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+remote_theme: thelehhman/texture
