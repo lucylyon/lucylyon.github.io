@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Disco Tray Studios Week Five"
+date:   2020-9-26
+---
+This week I worked with Griffith and Innocent to integrate the sqlite database into the razor pages. I also added some of the data into the database. That was somewhat confusing because I had to make sure I got the right data in the right spot. After I figured out where stuff when it was just copy and pasting. I think once I figure out more about databases, they'll be really helpful, but I still have to get over the learning curve. Then we had to figure out how to use the data from the database to populate the website. I could not figure that out, but thankfully Innocent did. I watched a lot of videos and read articles about it, but I couldn't get it to work. Part of the problem was that I don't understand how razor pages sqlite works, so making the two talk to each other was over my head. Even when I followed a videos instructions step by step I couldn't get them to work. Since I didn't understand the functions I couldn't figure out the problem. I found a really helpful video that made sense in theory, and I'm pretty sure that's what Innocent did to make it work.
