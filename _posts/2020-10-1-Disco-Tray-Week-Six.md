@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Disco Tray Studios Week Six"
 date:   2020-10-1
