@@ -15,7 +15,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Lucy's Blog!
-  tagline: 
+  tagline: A weekly blog where I post about what I'm currently working on for Disco Tray Studios
   date_format: "%b %-d, %Y"
   style: black
   showNav: false

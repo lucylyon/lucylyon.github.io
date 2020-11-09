@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Disco Tray Studios Week One"
+title:  "Week 1- Designing a Website for Us"
 date:   2020-08-31 0
 ---
 

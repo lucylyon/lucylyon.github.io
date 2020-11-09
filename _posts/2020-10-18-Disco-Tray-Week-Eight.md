@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Disco Tray Studios Week Eight"
+title:  "Week 8 - Preparing For Game Dev"
 date:   2020-10-18
 ---
 This week I worked with Griffith some more on the database, but I feel like I'm not much help to this project because everyone else knows so much more than I do. I met with Dr. Goadrich and we figured out another way for me to contribute that isn't the Hendrix Assesment project. I've started working on the game development stuff for the project. I've made a twitch account for us, and I'm figuring out streaming and all that stuff. I've also been playing some of the games from the Games For Change Conference this summer. (click for more)
