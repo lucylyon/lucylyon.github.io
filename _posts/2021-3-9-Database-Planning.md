@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "3/2-3/9: Database Planning"
+date:   2021-3-9
+---
+We did the workshop this week, and it was neat. I enjoyed hearing about the professor’s ideas and how everything is going to pan out. I hope we get to hear about how they projects are going throughout the semester. Griffith and I spent most of this week trying to get a plan for the local database. I tried to get the aesthetics of the app more cohesive, but it hasn’t been going super well. I made a colors class with a hexadecimal converter so we could use the disco tray colors, but it kept getting mad at me. I was able to have the function and colors in a class, but I haven’t quite figured out how to abstract them. I decided the database was more important so I kinda made the colors work, but not how I wanted them too. Because I’m doing all my Disco Tray stuff on a different Microsoft user, I had to redownload DB browser, which is giving me problems. I don’t think I’ve downloaded it correctly, but I’m not sure how to fix it. My brain is very fried, and it is frustrating because it seems like nothing will work. 
