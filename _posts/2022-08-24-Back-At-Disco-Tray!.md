@@ -17,9 +17,9 @@ I shall not do that. The posts will keep track of when I make the posts, so hope
 And if it is not, I will keep track of those again. I think it would be good to have a specific day that
 I do my blog entries. Wednesday would be ideal but my wednesday's are so hectic, so I think my plan is
 Sunday is blog day. We shall see if that actually happens. 
-Well. It is going poorly. I cannot remember my password to github so I can't log in.
-Update: Remembered password, but now it won't let me push things. This is going to be a long year. I am giving up for now. This is a future problem. 
-Future me: There are a bunch of issues with the dependencies, so I'm going to try to start from scratch. And
+Well. It is going poorly. I cannot remember my password to github so I can't log in. <br />
+Update: Remembered password, but now it won't let me push things. This is going to be a long year. I am giving up for now. This is a future problem. <br /> 
+Future me speaking: There are a bunch of issues with the dependencies, so I'm going to try to start from scratch. And
 then I can get a new theme! This is taking much longer than expected. I've gotten a new laptop since last time,
 so I have to re install everything. And I forgot how much stuff that actually is. For some reason I don't
 have permission to install some of the stuff? Which makes no sense.
