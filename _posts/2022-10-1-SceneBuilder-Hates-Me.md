@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Does SceneBuilder Hate Me?"
-date:   2022-10-2
+date:   2022-10-02
 ---
 I've tried to redo the javafx/scenebuilder stuff I did for the export page, but for some reason my scenebuilder won't talk to IntelliJ anymore. For a while I had them hooked up, but I have no clue what happened. Not sure how I keep making things worse, but it sure is happening. At least last week they were kinda talking to each other. My plan for tomorrow is just to have something basic done and try to connect it to everyone else's stuff at the meeting. It's not much, but it's something. I'm just glad to not show up empty handed. Andrei offered to help me earlier this week, and I think I'll probably take him up on that for adding my bit to the rest. It takes me way to long to ask for help becuase I am stubborn and think I can just figure everything out on my own. I cannot.  <br />
 On a postive note! I got access to MC after hours, so I can come here anytime to work. I live here now. I also got an adapter to connect to the monitors. It is very helpful having two screens. I don't know why, but something about this room just makes me very productive.  <br />
