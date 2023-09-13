@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Why Does SceneBuilder Hate Me?"
-date:   2022-10-02
----
-I've tried to redo the javafx/scenebuilder stuff I did for the export page, but for some reason my scenebuilder won't talk to IntelliJ anymore. For a while I had them hooked up, but I have no clue what happened. Not sure how I keep making things worse, but it sure is happening. At least last week they were kinda talking to each other. My plan for tomorrow is just to have something basic done and try to connect it to everyone else's stuff at the meeting. It's not much, but it's something. I'm just glad to not show up empty handed. Andrei offered to help me earlier this week, and I think I'll probably take him up on that for adding my bit to the rest. It takes me way to long to ask for help becuase I am stubborn and think I can just figure everything out on my own. I cannot.  <br />
-On a postive note! I got access to MC after hours, so I can come here anytime to work. I live here now. I also got an adapter to connect to the monitors. It is very helpful having two screens. I don't know why, but something about this room just makes me very productive.  <br />
-Side note: it is October and I still don't have things together. I wonder if I ever will this semester, or if it is doomed to be a mess. At least I'm done with my restaurant job until winter break, so I only have to deal with school (which is still a lot). But, it's getting better becuase I feel caught up with 2 of my classes, so now I need to not fall behind again with those two, and try to spend some more time on Disco Tray stuff and Capstone stuff. Concidently the two hardest things.   
-oh my god i didn't put .md again. it's never gonna happen first try i guess. :/

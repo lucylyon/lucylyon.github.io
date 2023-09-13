@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Demo(but not really) & Workshop!"
-date:   2022-10-09
----
-
-So, I got my little demo working last week and turns out Olivia and I miscommunicated so I essentially did the same thing she did. However, I got to add an export button. Now the goal is get the export button to work, and Olivia is doing importing and I really hope we both don’t do the same thing again. I also had lots of problems getting this project to run. It was weird because I didn’t have problems when I made my demo, but something about this project made javafx hate me. Andrei and Matthew tried to help, but we decided it would just be easier to clone the repo and try again, and it was. <br />
-Also, we had the mobile community partner workshop! It was really neat to hear about the idea’s for St. Joseph and I wish I was in the class because it sounds like a fun app to work on. And the guy from St. Joseph worked in IT for a long time, so he knows what’s up. Also we talked about wireframes which seem very helpful and I might make one for my capstone project just to have everything written down in one place. <br />
-I haven’t been able to work on Disco Tray as much as I wanted this week, but I’ve been able to work on it more than the week before! We have an exam in Algorithums tomorrow, so shocker, that’s been eating up a bunch of my time. I’ve been cutting Disco Tray and my capstone project in order to focus on french and algorithms, and pretty soon that’s gonna have to change. I’m currently trying to figure out what I can spend less time on in order to make more time for those two. Hopefully when we work on mobile stuff, that’ll help me spend more time on my capstone since my brain will spend more time in mobile dev mode. <br />

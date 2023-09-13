@@ -1,6 +1,0 @@
----
-layout: post
-title:  "2/16-2/23: I Still Hate Flutter"
-date:   2021-2-23
----
-I have been trying to successfully install flutter/android studios for so long I was starting to think it was impossible. I met with Ivy for a bit, and she was able to help me fix a few errors, but not get it to run. She said running pub get would fix it, but every time I tried to run it I got a bajillion more errors. Every time I got one error fixed, another one would appear. Eventually, I figured out Flutter wasn't properly installed, so I tried to do that. Android Studios wasn't recognizing Flutter because I didn't have git on the new account I made. Git was in my environmental variables, so I have no clue why the new account wouldn't recognize it because it wasn't user-specific. When I tried to re-install git, it was unable to be downloaded. I met with Dr. Ferrer and he figured out it was because the new user was not an administrator, and only administrators can download things. Once I made the new user an administrator, I could install git. There were a couple more errors, but we were able to work them out. Then Flutter ran!! I cannot express how grateful I am that I was finally able to get it to run. I've been trying to fix it off and on since early November. If I ever have to install Android Studios/Flutter again, I might go insane. 
