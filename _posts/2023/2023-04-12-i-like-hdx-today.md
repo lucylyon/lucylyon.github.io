@@ -1,0 +1,6 @@
+---
+title:  "I like Hendrix Today better"
+date:   2023-04-12
+---
+
+Life is hard and Lake Nixon is hard. I was trying to figure out what the heck was going on with the setState stuff in Lake Nixon because when I first tried to go to the group screen, none of the groups would show up. But if I left and came back, or reloaded the screen, they appeared? It was the same problem with the group calenders. I have no clue what was going on, but Connor apparently fixed it, so the end. After that, I wasn’t really sure what else I should do on Lake Nixon, and it is overall somewhat frustrating, so I went back to Hendrix Today since I understand it better. When I was trying to work on the Resources page that Olivia made, I spent way too long trying to remember how to pull from someone else’s branch, and I definitly didn’t do it the right way, but I got the info I wanted, so that is good enough for me. I’m working on the resources page and trying to clean it up a bit, as well as adding a back button for the menu page, or just keeping the bottom nav bar on the screen. Right now there is no ‘menu page’. When you tap the button, it opens the URL and takes you there. Also when I was doing tags, I messed up the search functionality, so I’m fixing that again. 

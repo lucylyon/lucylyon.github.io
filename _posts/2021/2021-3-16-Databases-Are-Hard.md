@@ -1,0 +1,5 @@
+---
+title:  "3/9-3/16: Databases are Hard"
+date:   2021-3-16
+---
+Figuring out the database stuff has been a bit of a struggle. At first, I wasn’t sure if I needed to make a database with DB browser then attach it to flutter. I’m still not fully sure if that’s what I’m supposed to do. I’ve looked at a lot of tutorials, and it took a few attempts before I found one that I was able to get to work and that I understood. I’ve figured out how to make a simple database with just a list of objects. The tutorial I followed made a todo list, so I understand a simple list. Now I’m going to try to implement that into good vibes. I think I’m just going to try to make a list of users at first. Also, at some point I need to abstract the UI because everything is hard coded right now, but the database is the current priority. This entire thing makes me so anxious, and I wish it didn’t. I thought fonts would be easy and fun to implement, but I was wrong. It is giving me lots of errors and it’s so annoying.
