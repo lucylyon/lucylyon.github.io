@@ -1,5 +1,0 @@
----
-title:  "Week 3 - Tweaking the Website"
-date:   2020-9-11 
----
-This week Innocent and I spent more time tweaking the website. Overall I am very happy with how it looks, and I'm proud of myself for accomplishing so much. There's still a couple things that need to be fixed, but I should be able to fix them by next Monday. The Thursday meeting was very overwhelmimg for me this week. We are going to start working on the Hendrix Assesment Website, and there is a lot of it that I do not understand. Thankfully I had a meeting with Dr. Goadrich, and he doesn't expect me to know the same as everyone else since I haven't taken Databases and Websystems. That was really reassuring. I am excited to learn more about what we're doing, because it seems like a very useful skill to have. Dr. Goadrich and I also spent some time formatting the blog page for the Disco Tray website, and him walking me through it all made a lot of sense, so I am very grateful for that. I'm glad things are starting to click. I think I want to edit this blog some more, so there's more too it than just a black header and the posts. However, I am tired so that is a future idea. 
